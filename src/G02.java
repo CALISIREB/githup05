@@ -3,6 +3,8 @@ public class G02 {
 
         System.out.println("islem nedir");
 
+        System.out.println("head");
+
     }
 
 }
